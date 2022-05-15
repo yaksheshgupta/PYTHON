@@ -1,0 +1,3 @@
+emp no. ,emp name ,designation ,emp address ,department, salary ,experiance
+2,hf,edfv,dfcvc@,apple,1222,100
+3,me,edfv,dfcvc@,apple,52000,100
